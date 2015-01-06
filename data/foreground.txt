@@ -1,0 +1,2 @@
+0.0 FG 200 200 2 fg01.png hb-fg01.png
+2.0 FG 640 380 1 fg02.png hb-fg02.png 

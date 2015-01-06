@@ -1,0 +1,3 @@
+0.0 BG 0 0 blue-galaxy.jpg
+0.0 PLAYER 100 100 nave02.png hb-nave02.png
+0.0 HUD 10 10 1 hud01.png hb-hud01.png

@@ -1,0 +1,1 @@
+blue-galaxy.jpg fg01.png fg02.png inimigo01.png jellyfish01.png nave_tiro_01.png nave_tiro_02.png nave02.png
